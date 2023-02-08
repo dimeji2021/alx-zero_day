@@ -1,2 +1,2 @@
-school
-ALX School is so cool!
+Alx
+School
